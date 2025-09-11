@@ -9,9 +9,9 @@ Then, the outcomes of these live predictions can be displayed in a dashboard in 
 https://public.tableau.com/app/profile/andreas.wong/viz/PremierLeagueMatchPredictions/PremierLeagueMatchPredictorDashboard?publish=yes
 
 # Elements
-Files called **'20xx-20xx Fixtures'** contain the Premier League fixtures for each season, per gameweek. These are used in the Live Predictor.
+**'20xx-20xx Fixtures'** contain the Premier League fixtures for each season, per gameweek. These are used in the Live Predictor.
 
-Files called **'20xx-20xx Results'** contain the results of each Premier League fixture per gameweek. These are used in the Live Predictor
+**'20xx-20xx Results'** contain the results of each Premier League fixture per gameweek. These are used in the Live Predictor
 
 **'Documentation'** contains the Data Flow Diagram and Process Flow Diagram which are displayed below in the README file.
 
