@@ -9,31 +9,31 @@ Then, the outcomes of these live predictions can be displayed in a dashboard in 
 https://public.tableau.com/app/profile/andreas.wong/viz/PremierLeagueMatchPredictions/PremierLeagueMatchPredictorDashboard?publish=yes
 
 # Elements
-Files called '20xx-20xx Fixtures' contain the Premier League fixtures for each season, per gameweek. These are used in the Live Predictor.
+Files called **'20xx-20xx Fixtures'** contain the Premier League fixtures for each season, per gameweek. These are used in the Live Predictor.
 
-Files called '20xx-20xx Results' contain the results of each Premier League fixture per gameweek. These are used in the Live Predictor
+Files called **'20xx-20xx Results'** contain the results of each Premier League fixture per gameweek. These are used in the Live Predictor
 
-'Documentation' contains the Data Flow Diagram and Process Flow Diagram which are displayed below in the README file.
+**'Documentation'** contains the Data Flow Diagram and Process Flow Diagram which are displayed below in the README file.
 
-'Encode Tables' contains each Premier League team (across all seasons) and their corresponding numerical value, created via encoding when training the machine learning model.
+**'Encode Tables'** contains each Premier League team (across all seasons) and their corresponding numerical value, created via encoding when training the machine learning model.
 
-'Lookup tables' contains the matchweek lookup file, used to match the date of a game with a gameweek of a season in the tableau dashboard, to enable the showing of weekly prediction accuracies.
+**'Lookup tables'** contains the matchweek lookup file, used to match the date of a game with a gameweek of a season in the tableau dashboard, to enable the showing of weekly prediction accuracies.
 
-'Stored prediction latest' contains the predictions the model has made for the upcoming gameweek
+**'Stored prediction latest'** contains the predictions the model has made for the upcoming gameweek
 
-'Stored predictions' contains the predictions made by the model for each gameweek
+**'Stored predictions'** contains the predictions made by the model for each gameweek
 
-'Stored predictions_results' contains the predicted results and actual result of each gameweek's games
+**'Stored predictions_results'** contains the predicted results and actual result of each gameweek's games
 
-'Stored predictions_results_master' contains a masterlist of every single gameweek's predicted and actual results combined into one dataframe.
+**'Stored predictions_results_master'** contains a masterlist of every single gameweek's predicted and actual results combined into one dataframe.
 
-'Team data' contains the data used to train the machine learning model, and to make the live predictions
+**'Team data'** contains the data used to train the machine learning model, and to make the live predictions
 
-Football_Predictor_Second_Iteration.ipynb is the file containing the code to (re)train the machine learning model
+**'Football_Predictor_Second_Iteration.ipynb'** is the file containing the code to (re)train the machine learning model
 
-Live_Predictor_202526.ipynb is the file containing the code used to make live predictions on each gameweek's results.
+**'Live_Predictor_202526.ipynb'** is the file containing the code used to make live predictions on each gameweek's results.
 
-football-match-prediction-model.pkl is the Python object associated with the machine learning model.
+**'football-match-prediction-model.pkl'** is the Python object associated with the machine learning model.
 
 
 # Data Flow Diagram
