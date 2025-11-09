@@ -754,7 +754,7 @@ Date,Home Team,Away Team,Predicted Result,Actual Result
 16/08/2025,Tottenham,Burnley,Home Win,Home Win
 16/08/2025,Brighton,Fulham,Draw,Draw
 16/08/2025,Wolves,Manchester City,Away Win,Away Win
-17/08/2025,"Nott'ham Forest	",Brentford,Home Win,Home Win
+17/08/2025,Nott'ham Forest	,Brentford,Home Win,Home Win
 17/08/2025,Chelsea,Crystal Palace,Home Win,Draw
 17/08/2025,Manchester Utd,Arsenal,Away Win,Away Win
 18/08/2025,Leeds United,Everton,Home Win,Home Win
@@ -778,3 +778,73 @@ Date,Home Team,Away Team,Predicted Result,Actual Result
 31/08/2025,Nott'ham Forest,West Ham,Home Win,Away Win
 31/08/2025,Liverpool,Arsenal,Home Win,Home Win
 31/08/2025,Aston Villa,Crystal Palace,Away Win,Away Win
+13/09/2025,Arsenal,Nott'ham Forest,Home Win,Home Win
+13/09/2025,Crystal Palace,Sunderland,Home Win,Draw
+13/09/2025,Everton,Aston Villa,Home Win,Draw
+13/09/2025,Fulham,Leeds United,Home Win,Home Win
+13/09/2025,Newcastle Utd,Wolves,Home Win,Home Win
+13/09/2025,Bournemouth,Brighton,Home Win,Home Win
+13/09/2025,West Ham,Tottenham,Away Win,Away Win
+13/09/2025,Brentford,Chelsea,Away Win,Draw
+14/09/2025,Burnley,Liverpool,Away Win,Away Win
+14/09/2025,Manchester City,Manchester Utd,Away Win,Home Win
+20/09/2025,Liverpool,Everton,Draw,Home Win
+20/09/2025,Wolves,Leeds United,Away Win,Away Win
+20/09/2025,Brighton,Tottenham,Home Win,Draw
+20/09/2025,Burnley,Nott'ham Forest,Home Win,Draw
+20/09/2025,West Ham,Crystal Palace,Away Win,Away Win
+20/09/2025,Manchester Utd,Chelsea,Away Win,Home Win
+20/09/2025,Fulham,Brentford,Home Win,Home Win
+21/09/2025,Bournemouth,Newcastle Utd,Home Win,Draw
+21/09/2025,Sunderland,Aston Villa,Home Win,Draw
+21/09/2025,Arsenal,Manchester City,Home Win,Draw
+27/09/2025,Brentford,Manchester Utd,Away Win,Home Win
+27/09/2025,Crystal Palace,Liverpool,Away Win,Home Win
+27/09/2025,Manchester City,Burnley,Home Win,Home Win
+27/09/2025,Chelsea,Brighton,Home Win,Away Win
+27/09/2025,Leeds United,Bournemouth,Away Win,Draw
+27/09/2025,Nott'ham Forest,Sunderland,Away Win,Away Win
+27/09/2025,Tottenham,Wolves,Home Win,Draw
+28/09/2025,Aston Villa,Fulham,Home Win,Home Win
+28/09/2025,Newcastle Utd,Arsenal,Away Win,Away Win
+29/09/2025,Everton,West Ham,Home Win,Draw
+03/10/2025,Bournemouth,Fulham,Home Win,Home Win
+04/10/2025,Leeds United,Tottenham,Away Win,Away Win
+04/10/2025,Arsenal,West Ham,Home Win,Home Win
+04/10/2025,Manchester Utd,Sunderland,Home Win,Home Win
+04/10/2025,Chelsea,Liverpool,Home Win,Home Win
+05/10/2025,Wolves,Brighton,Away Win,Draw
+05/10/2025,Everton,Crystal Palace,Away Win,Home Win
+05/10/2025,Aston Villa,Burnley,Home Win,Home Win
+05/10/2025,Newcastle Utd,Nott'ham Forest,Home Win,Home Win
+05/10/2025,Brentford,Manchester City,Away Win,Away Win
+18/10/2025,Nott'ham Forest,Chelsea,Home Win,Away Win
+18/10/2025,Sunderland,Wolves,Home Win,Home Win
+18/10/2025,Burnley,Leeds United,Away Win,Home Win
+18/10/2025,Brighton,Newcastle Utd,Draw,Home Win
+18/10/2025,Crystal Palace,Bournemouth,Home Win,Draw
+18/10/2025,Manchester City,Everton,Home Win,Home Win
+18/10/2025,Fulham,Arsenal,Away Win,Away Win
+19/10/2025,Tottenham,Aston Villa,Away Win,Away Win
+19/10/2025,Liverpool,Manchester Utd,Home Win,Away Win
+20/10/2025,West Ham,Brentford,Away Win,Away Win
+24/10/2025,Leeds United,West Ham,Home Win,Home Win
+25/10/2025,Newcastle Utd,Fulham,Home Win,Home Win
+25/10/2025,Chelsea,Sunderland,Home Win,Away Win
+25/10/2025,Manchester Utd,Brighton,Home Win,Home Win
+25/10/2025,Brentford,Liverpool,Draw,Home Win
+26/10/2025,Arsenal,Crystal Palace,Away Win,Home Win
+26/10/2025,Aston Villa,Manchester City,Away Win,Home Win
+26/10/2025,Wolves,Burnley,Away Win,Away Win
+26/10/2025,Bournemouth,Nott'ham Forest,Draw,Home Win
+26/10/2025,Everton,Tottenham,Home Win,Away Win
+01/11/2025,Crystal Palace,Brentford,Home Win,Home Win
+01/11/2025,Nott'ham Forest,Manchester Utd,Away Win,Draw
+01/11/2025,Fulham,Wolves,Home Win,Home Win
+01/11/2025,Burnley,Arsenal,Away Win,Away Win
+01/11/2025,Brighton,Leeds United,Home Win,Home Win
+01/11/2025,Tottenham,Chelsea,Away Win,Away Win
+01/11/2025,Liverpool,Aston Villa,Draw,Home Win
+02/11/2025,West Ham,Newcastle Utd,Away Win,Home Win
+02/11/2025,Manchester City,Bournemouth,Home Win,Home Win
+03/11/2025,Sunderland,Everton,Home Win,Draw
